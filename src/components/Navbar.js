@@ -27,7 +27,7 @@ import './Navbar.css'
             <>
                 <nav className="navbar">
                     <div className="navbar-container">
-                        <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+                        <Link to="/chkn" className="navbar-logo" onClick={closeMobileMenu}>
                             CHKN 
                             <i className='fas fa-drumstick-bite'/>
                         </Link>
@@ -36,7 +36,7 @@ import './Navbar.css'
                         </div>
                         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                             <li className="nav-item">
-                                <Link to='/' className="nav-links" onClick={closeMobileMenu}>Home</Link>
+                                <Link to='/chkn' className="nav-links" onClick={closeMobileMenu}>Home</Link>
                             </li>
                             <li className="nav-item">
                                 <Link to='/services' className="nav-links" onClick={closeMobileMenu}>Services</Link>

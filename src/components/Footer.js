@@ -27,15 +27,15 @@ function Footer() {
                         <h2>About Us</h2>
                         <Link to="/sign-up">How it works</Link>
                         <Link to="/testimonials">Testimonials</Link>
-                        <Link to="/">Careers</Link>
-                        <Link to="/">Terms of Service</Link>
+                        <Link to="/chkn">Careers</Link>
+                        <Link to="/chkn">Terms of Service</Link>
                     </div>
                     <div className="footer-link-items">
                         <h2>Still More</h2>
                         <Link to="/sign-up">Submit Recipes</Link>
                         <Link to="/testimonials">Support Portal</Link>
-                        <Link to="/">Pricing Calculator</Link>
-                        <Link to="/">Contact Us</Link>
+                        <Link to="/chkn">Pricing Calculator</Link>
+                        <Link to="/chkn">Contact Us</Link>
                     </div>
 
                 </div>
@@ -44,15 +44,15 @@ function Footer() {
                         <h2>Keep it Going</h2>
                         <Link to="/sign-up">Celebrity Endorsements</Link>
                         <Link to="/testimonials">Become a Franchisee</Link>
-                        <Link to="/">End Of Life notices</Link>
-                        <Link to="/">Learn more about Chicken</Link>
+                        <Link to="/chkn">End Of Life notices</Link>
+                        <Link to="/chkn">Learn more about Chicken</Link>
                     </div>
                     <div className="footer-link-items">
                         <h2>Why Us</h2>
                         <Link to="/sign-up">Organic Farming</Link>
                         <Link to="/testimonials">Currency Conversions</Link>
-                        <Link to="/">Se Habla Espanol</Link>
-                        <Link to="/">Political Ideas</Link>
+                        <Link to="/chkn">Se Habla Espanol</Link>
+                        <Link to="/chkn">Political Ideas</Link>
                     </div>
 
                 </div>
@@ -61,21 +61,21 @@ function Footer() {
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">
-                        <Link to="/" className="footer-logo">CHKN <i className='fas fa-drumstick-bite'/>
+                        <Link to="/chkn" className="footer-logo">CHKN <i className='fas fa-drumstick-bite'/>
                         </Link>
                     </div>
                     <small className="website-rights">CHKN © 2022</small>
                     <div className="social-icons">
-                        <Link className="social-icon-link facebook" to="/" target="_blank" aria-label='Facebook'>
+                        <Link className="social-icon-link facebook" to="/chkn" target="_blank" aria-label='Facebook'>
                             <i className="fab fa-facebook-f"></i>
                         </Link>
-                        <Link className="social-icon-link instagram" to="/" target="_blank" aria-label='Instagram'>
+                        <Link className="social-icon-link instagram" to="/chkn" target="_blank" aria-label='Instagram'>
                             <i className="fab fa-instagram"></i>
                         </Link>
-                        <Link className="social-icon-link twitter" to="/" target="_blank" aria-label='Twitter'>
+                        <Link className="social-icon-link twitter" to="/chkn" target="_blank" aria-label='Twitter'>
                             <i className="fab fa-twitter"></i>
                         </Link>
-                        <Link className="social-icon-link linkedin" to="/" target="_blank" aria-label='LinkedIn'>
+                        <Link className="social-icon-link linkedin" to="/chkn" target="_blank" aria-label='LinkedIn'>
                             <i className="fab fa-linkedin"></i>
                         </Link>
 
