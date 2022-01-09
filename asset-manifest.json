@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd64c233.css",
-    "main.js": "/static/js/main.5d76a11f.js",
-    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/chicken-background.jpeg": "/static/media/chicken-background.77a5369b9ecac75baa57.jpeg",
-    "index.html": "/index.html",
-    "main.fd64c233.css.map": "/static/css/main.fd64c233.css.map",
-    "main.5d76a11f.js.map": "/static/js/main.5d76a11f.js.map"
+    "main.css": "/chkn/static/css/main.d78b0df5.css",
+    "main.js": "/chkn/static/js/main.34855a20.js",
+    "static/media/img-2.jpg": "/chkn/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/chkn/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/chkn/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/chicken-background.jpeg": "/chkn/static/media/chicken-background.77a5369b9ecac75baa57.jpeg",
+    "index.html": "/chkn/index.html",
+    "main.d78b0df5.css.map": "/chkn/static/css/main.d78b0df5.css.map",
+    "main.34855a20.js.map": "/chkn/static/js/main.34855a20.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd64c233.css",
-    "static/js/main.5d76a11f.js"
+    "static/css/main.d78b0df5.css",
+    "static/js/main.34855a20.js"
   ]
 }
